@@ -1,1 +1,1 @@
-# aws-deepracer
+# 2025 Chuncheon AWS Deepracer Championship
